@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lidarr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://lidarr.audio/
+Lidarr is an open-source music collection manager that automates the downloading, organization, and tagging of music files. It monitors your favorite artists and releases, integrates with download clients, and ensures metadata is correctly applied, providing a convenient way to keep your music library up to date.
+
+**Areas:** Music · Media · Automation · OpenSource · DownloadManager
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lidarr.audio/)
+- [Documentation](https://lidarr.audio/docs/)
+- [Getting started](https://lidarr.audio/#download)
+- [API reference](https://lidarr.audio/docs/api/)
+- [Support](https://lidarr.audio/#support)
+- [GitHub](https://github.com/Lidarr/Lidarr)
+- [Status](https://status.lidarr.audio/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lidarr/](https://apis.io/providers/lidarr/).
